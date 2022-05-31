@@ -1,1 +1,1 @@
-# Dice-ROll-Game-in-Java
+It is an Dice Roll Game implemented in Java Programming Language.
